@@ -22,5 +22,13 @@
     "nodemon": "^2.0.15"
   },
   "keywords": [],
-  "description": ""
+  "description": "This API provides endpoints for processing and saving images. It allows you to resize, change quality, and change the format of images. Images can be uploaded via the `/api/process-image` endpoint.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shikhaMungali/exelon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shikhaMungali/exelon/issues"
+  },
+  "homepage": "https://github.com/shikhaMungali/exelon#readme"
 }
